@@ -17,17 +17,21 @@ songs={"Something Elated": {"artist" : "Broke for Free", "path": music_path + "B
 #Add the 4 helper methods and the run() method to the Jukebox class
 class Jukebox:
     def help(self):
-
+      "replace with code"
 
 
     def list(self,song_list):
+      "replace with code"
 
 
 
     def play(self, song_list):
+      "replace with code"
 
 
     def exit_jukebox(self):
+      "replace with code"
 
 
     def run(self, songs):
+      "replace with code"

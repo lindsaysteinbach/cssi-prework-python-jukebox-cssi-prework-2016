@@ -45,6 +45,12 @@ We'll be building a series of methods that enact the desired behavior of our Juk
 Open up `jukebox.py` and you should see this:
 
 ```python
+songs={"Something Elated": {"artist" : "Broke for Free", "path": music_path + "Broke_For_Free-Something_Elated.mp3", "jukebox_id": 1},
+"Springish": {"artist" : "Gillicuddy", "path": music_path + "Gillicuddy-Springish.mp3", "jukebox_id": 2},
+"Siesta": {"artist" : "Jahzzar", "path": music_path + "Jahzzar-Siesta.mp3", "jukebox_id": 3},
+"Happy Go Lucky": {"artist" : "Scott Holmes", "path": music_path + "Scott_Holmes-Happy_Go_Lucky.mp3", "jukebox_id": 4},
+"Favorite Secrets": {"artist" : "Waylon Thorton", "path": music_path + "Waylon_Thorton-Favorite_Secrets.mp3", "jukebox_id": 5}
+}
 
 ```
 
